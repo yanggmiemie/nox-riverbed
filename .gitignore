@@ -1,0 +1,8 @@
+# 跑图输出（图不进版本库，只留 final 与 view）
+heart/test_out.png
+heart/*_v[0-9]*.png
+# 真实的糖罐数据不进公开仓
+sugarjar/candies.jsonl
+__pycache__/
+*.pyc
+.DS_Store
